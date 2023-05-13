@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import logo from '../../src/assets/images/logo.svg'
 import social1 from '../../src/assets/images/nav-icon1.svg'
-import social2 from '../../src/assets/images/nav-icon2.svg'
-import social3 from '../../src/assets/images/nav-icon3.svg'
+import social2 from '../../src/assets/images/github-mark-white.svg'
+import social3 from '../../src/assets/images/Gmail_icon_(2020).svg'
 import { BrowserRouter as Router } from "react-router-dom"
 
 
@@ -47,9 +47,9 @@ export const NavBar = () => {
             </Nav>
             <span className='navbar-socials'>
             <div className='social-icon'>
-              <a href='#'><img src={social1} alt="" /></a>
-              <a href='#'><img src={social2} alt="" /></a>
-              <a href='#'><img src={social3} alt="" /></a>
+              <a href='https://www.linkedin.com/in/jamesteades/' target='_blank'><img src={social1} alt="LinkedIn" /></a>
+              <a href='https://github.com/jeades92' target='_blank'><img src={social2} alt="Github" /></a>
+              <a href='mailto:eadesj25@gmail.com'><img src={social3} alt="IG" /></a>
             </div>
                 <button className='vvd'><span>Connect To Host</span></button>
           </span>
