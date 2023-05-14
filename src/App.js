@@ -1,11 +1,13 @@
 import './App.css';
 import { NavBar } from './components/naviBar';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import { AboutMe } from './components/AboutMe';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
+      <AboutMe />
     </div>
   );
 }
