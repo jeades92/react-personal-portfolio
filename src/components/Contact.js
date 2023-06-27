@@ -29,10 +29,7 @@ export const Contact = () => {
         <section className="contact" id="connect">
             <Container>
                 <Row className="align-items-center">
-                    <Col md={6}>
-                        <img src={contactImg} />
-                    </Col>
-                    <Col md={6}>
+                    <Col md={12}>
                         <h2>Get In Touch</h2>
                         <form>
                             <Row>
@@ -48,10 +45,10 @@ export const Contact = () => {
                                 <Col sm={6} className="px-1">
                                     <input type="tel" value={formDetails.phone} placeholder="Phone #" onChange={(e) => onFormUpdate('phone', e.target.value)} />
                                 </Col>
-                                <Col sm={6} className="px-1">
+                                <Col sm={12} className="px-1">
                                     <textarea row="6" value={formDetails.message} placeholder="Message" onChange={(e) => onFormUpdate('message', e.target.value)} />
                                 </Col>
-                                <Col sm={6} className="px-1">
+                                <Col sm={12} className="px-1">
                                     <button type="submit"><span>{buttonText}</span></button>
                                 </Col>
                                 {
