@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-personal-portfolio/static/css/main.9923bd69.css",
-    "main.js": "/react-personal-portfolio/static/js/main.b01b129c.js",
+    "main.js": "/react-personal-portfolio/static/js/main.4fc23ddb.js",
     "static/js/787.fb771931.chunk.js": "/react-personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg": "/react-personal-portfolio/static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.433efe32fd73793518e1.jpg",
     "static/media/color-sharp.png": "/react-personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -14,11 +14,11 @@
     "static/media/nav-icon1.svg": "/react-personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/Gmail_icon_(2020).svg": "/react-personal-portfolio/static/media/Gmail_icon_(2020).cf6e9da6207069eaa596237538127bcb.svg",
     "main.9923bd69.css.map": "/react-personal-portfolio/static/css/main.9923bd69.css.map",
-    "main.b01b129c.js.map": "/react-personal-portfolio/static/js/main.b01b129c.js.map",
+    "main.4fc23ddb.js.map": "/react-personal-portfolio/static/js/main.4fc23ddb.js.map",
     "787.fb771931.chunk.js.map": "/react-personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9923bd69.css",
-    "static/js/main.b01b129c.js"
+    "static/js/main.4fc23ddb.js"
   ]
 }
