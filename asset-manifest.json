@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-personal-portfolio/static/css/main.9923bd69.css",
-    "main.js": "/react-personal-portfolio/static/js/main.4fc23ddb.js",
-    "static/js/787.fb771931.chunk.js": "/react-personal-portfolio/static/js/787.fb771931.chunk.js",
-    "static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg": "/react-personal-portfolio/static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.433efe32fd73793518e1.jpg",
-    "static/media/color-sharp.png": "/react-personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/rexaddsong.png": "/react-personal-portfolio/static/media/rexaddsong.6bcf42331cae6a5170d7.png",
-    "static/media/passwordgen.png": "/react-personal-portfolio/static/media/passwordgen.fd08db8ea61830cce94d.png",
-    "static/media/notetaker.png": "/react-personal-portfolio/static/media/notetaker.96dc2cfad7bb8468d2ae.png",
-    "static/media/logo.svg": "/react-personal-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
-    "static/media/github-mark-white.svg": "/react-personal-portfolio/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
-    "index.html": "/react-personal-portfolio/index.html",
-    "static/media/nav-icon1.svg": "/react-personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/Gmail_icon_(2020).svg": "/react-personal-portfolio/static/media/Gmail_icon_(2020).cf6e9da6207069eaa596237538127bcb.svg",
-    "main.9923bd69.css.map": "/react-personal-portfolio/static/css/main.9923bd69.css.map",
-    "main.4fc23ddb.js.map": "/react-personal-portfolio/static/js/main.4fc23ddb.js.map",
-    "787.fb771931.chunk.js.map": "/react-personal-portfolio/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.313c3576.css",
+    "main.js": "/portfolio/static/js/main.43fcba77.js",
+    "static/js/787.fb771931.chunk.js": "/portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg": "/portfolio/static/media/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.433efe32fd73793518e1.jpg",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/rexaddsong.png": "/portfolio/static/media/rexaddsong.6bcf42331cae6a5170d7.png",
+    "static/media/passwordgen.png": "/portfolio/static/media/passwordgen.fd08db8ea61830cce94d.png",
+    "static/media/notetaker.png": "/portfolio/static/media/notetaker.96dc2cfad7bb8468d2ae.png",
+    "static/media/logo.svg": "/portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/github-mark-white.svg": "/portfolio/static/media/github-mark-white.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/Gmail_icon_(2020).svg": "/portfolio/static/media/Gmail_icon_(2020).cf6e9da6207069eaa596237538127bcb.svg",
+    "main.313c3576.css.map": "/portfolio/static/css/main.313c3576.css.map",
+    "main.43fcba77.js.map": "/portfolio/static/js/main.43fcba77.js.map",
+    "787.fb771931.chunk.js.map": "/portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9923bd69.css",
-    "static/js/main.4fc23ddb.js"
+    "static/css/main.313c3576.css",
+    "static/js/main.43fcba77.js"
   ]
 }
